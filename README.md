@@ -1,4 +1,5 @@
-# Bitcoin Arbitrage Auto Trading Bot <img src="https://lh3.googleusercontent.com/b67MfgU9vteW8Pq4yTUbkgcPJEoAlZ_yhuxYr00IQe2YhBFNegMElEvgjl3c8CBTBxtf" width="100">
+<img src="https://lh3.googleusercontent.com/b67MfgU9vteW8Pq4yTUbkgcPJEoAlZ_yhuxYr00IQe2YhBFNegMElEvgjl3c8CBTBxtf" width="100">
+# Bitcoin Arbitrage Auto Trading Bot 
 
 ## Pull Request'ler dikkate alınacaktır
 
